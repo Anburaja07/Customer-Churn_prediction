@@ -1,4 +1,3 @@
-# Customer-Churn_prediction
 # Customer Churn Prediction 📊
 
 A machine learning project to predict customer churn in the telecommunications industry using the Telco Customer Churn dataset.
